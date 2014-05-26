@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:country xmlns:ns2="com.sunil.JAX">
+    <name>India</name>
+    <States>
+        <state>
+            <name>Bihar</name>
+            <Cities>
+                <city>
+                    <name>Patna</name>
+                    <zip>82000</zip>
+                </city>
+                <city/>
+            </Cities>
+        </state>
+        <state>
+            <name>Maharastra</name>
+            <Cities>
+                <city>
+                    <name>Pune</name>
+                    <zip>411021</zip>
+                </city>
+                <city>
+                    <name>Mumbai</name>
+                    <zip>41000</zip>
+                </city>
+            </Cities>
+        </state>
+    </States>
+</ns2:country>
